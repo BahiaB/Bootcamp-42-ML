@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+ai42/__init__.py
+ai42/loading.py
+ai42/logger.py
+ai42.egg-info/PKG-INFO
+ai42.egg-info/SOURCES.txt
+ai42.egg-info/dependency_links.txt
+ai42.egg-info/top_level.txt
